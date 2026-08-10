@@ -22,7 +22,7 @@ Made for anyone self-studying for the CC exam: career switchers, IT students, an
 
 ## File
 
-📄 [`ISC2_CC_Scenario_Exam.md`](./ISC2_CC_Scenario_Exam.md)
+📄 [`ISC2_CC_Practice_Exam.md`](./ISC2_CC_Practice_Exam.md)
 
 ## How to use this
 
