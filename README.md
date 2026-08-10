@@ -5,19 +5,17 @@ A free, open-source set of **200 scenario-based practice questions** for the [IS
 Made for anyone self-studying for the CC exam: career switchers, IT students, and entry-level candidates preparing for their first cybersecurity certification.
  
 ## What's inside
- 
 - **200 questions**, all scenario/situational style (matches how ISC2 actually phrases exam questions)
 - Organized into the **5 official CC domains**, weighted the same as the real exam:
+
 | Domain | Questions | Weight |
 |---|---|---|
 | 1. Security Principles | 52 | 26% |
 | 2. Business Continuity, Disaster Recovery & Incident Response Concepts | 20 | 10% |
 | 3. Access Control Concepts | 44 | 22% |
 | 4. Network Security | 48 | 24% |
-| 5. Security Operations | 36 | 18% |
- 
-- Every question has 4 answer choices, the correct answer, and a justification explaining the reasoning
-- Plain Markdown — readable on GitHub, exportable to PDF, or pasted into Anki/Quizlet
+| 5. Security Operations | 36 | 18% | 
+
 ## Files
  
 📄 **Practice exam:** [`ISC2_CC_Practice_Exam.md`](./ISC2_CC_Practice_Exam.md) — all 200 scenario questions with answers and justifications
